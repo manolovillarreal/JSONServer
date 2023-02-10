@@ -7,11 +7,13 @@
     },
     {
       "id": 2,
-      "title": "waroo"
+      "title": "waroo",
+      "deck":[21,63,233,715,820]
     },
     {
       "id": 3,
-      "title": "vathrix"
+      "title": "vathrix",
+      "deck":[8,22,255,405,566]
     }
   ]
 }
